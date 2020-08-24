@@ -4,13 +4,13 @@
 
 ## 목차 
 
-- CNN이란 무엇인지? 
-  - Convolution - Pooling - Fully Connected Layer 
-  - CNN의 Backpropagation 
-- CNN이 가지는 문제점 
-  - Gradient Vanishing 
-  - Gradient Exploding 
-- PyTorch를 이용한 실습 
+CNN이란 무엇인지? 
+- Convolution - Pooling - Fully Connected Layer 
+- CNN의 Backpropagation 
+CNN이 가지는 문제점 
+- Gradient Vanishing 
+- Gradient Exploding 
+PyTorch를 이용한 실습 
 
 ## 추가할 사항
 
