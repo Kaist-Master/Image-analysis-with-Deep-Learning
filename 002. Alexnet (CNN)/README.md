@@ -23,7 +23,7 @@ PyTorch를 이용한 실습
 
 [CNN]
 
-1. [https://medium.com/@seoilgun/cnn%EC%9D%98-stationarity%EC%99%80-locality-610166700979](https://medium.com/@seoilgun/cnn의-stationarity와-locality-610166700979)
+1. https://medium.com/@seoilgun/cnn%EC%9D%98-stationarity%EC%99%80-locality-610166700979
 
 2. https://www.slideshare.net/agdatalab/deep-learning-convolutional-neural-network
 
@@ -33,7 +33,7 @@ PyTorch를 이용한 실습
 
 5. https://www.researchgate.net/figure/Model-architectures-for-the-MNIST-and-CIFAR-10-models_tbl10_324558570
 
-6. [https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/](https://ratsgo.github.io/deep learning/2017/04/05/CNNbackprop/)
+6. https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/
 
 [Gradient Vanishing & Exploding] 
 
@@ -43,6 +43,6 @@ PyTorch를 이용한 실습
 
 [Jaccobian] 
 
-1. [http://t-robotics.blogspot.com/2013/12/jacobian.html#.X0OwjcgzaUk](http://t-robotics.blogspot.com/2013/12/jacobian.html)
+1. http://t-robotics.blogspot.com/2013/12/jacobian.html
 
 2. https://angeloyeo.github.io/2020/07/24/Jacobian.html
