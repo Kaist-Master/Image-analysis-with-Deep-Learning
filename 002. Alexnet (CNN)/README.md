@@ -2,6 +2,8 @@
 
 이미지 처리의 가장 기본적인 모델인 CNN에 대해서 정리한 자료입니다. 
 
+## 목차 
+
 - CNN이란 무엇인지? 
   - Convolution - Pooling - Fully Connected Layer 
   - CNN의 Backpropagation 
