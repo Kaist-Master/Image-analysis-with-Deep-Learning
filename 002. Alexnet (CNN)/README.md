@@ -28,13 +28,7 @@ PyTorch를 이용한 실습
 - CNN_PyTorch_v3.ipynb
   - 학습에 유용한 파라미터들을 사용해서 코드를 개선 (https://github.com/Dacon-official/competitions/blob/master/AIFrenz_S2/1st_place/code/Model2.ipynb)
   - Train Accuracy : , Test Accuracy : 
-  
-## 추가할 사항
-
-- 내용 
-  - http://aikorea.org/cs231n/ 
-  - parameter 계산방법 (http://taewan.kim/post/cnn/)
-  - CNN의 parameter들을 설정하는 방법 (Kernel의 크기, Layer의 순서 등) 
+ 
 
 ## 참고 자료
 
@@ -53,6 +47,8 @@ PyTorch를 이용한 실습
 6. https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/
 
 7. https://taewan.kim/post/cnn/
+
+8. https://zzsza.github.io/data/2018/05/14/cs231n-cnn/
 
 [Gradient Vanishing & Exploding] 
 
