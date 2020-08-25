@@ -17,7 +17,14 @@ PyTorch를 이용한 실습
 ## 추가할 사항
 
 - 코드 : PyTorch 
-- 내용 :  http://aikorea.org/cs231n/ 
+  - v1 : Train만을 이용하여 predict (Training all dataset with batch)  
+  - v2 : kfold를 이용하여 predict 
+  - v3 : Use utilization package in https://dacon.io/competitions/official/235591/codeshare/1288?page=1&dtype=recent&ptype=pub
+
+- 내용 
+  - http://aikorea.org/cs231n/ 
+  - parameter 계산방법 (http://taewan.kim/post/cnn/)
+  - CNN의 parameter들을 설정하는 방법 (Kernel의 크기, Layer의 순서 등) 
 
 ## 참고 자료
 
