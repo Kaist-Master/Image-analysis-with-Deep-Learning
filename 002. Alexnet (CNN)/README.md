@@ -13,13 +13,19 @@ CNN이 가지는 문제점
 - Gradient Exploding 
 
 PyTorch를 이용한 실습 
+- CNN_PyTorch_v1.ipynb 
+  - 모든 트레인 데이터를 학습에 이용해서 예측함 
+  - Train Accuracy : , Test Accuracy : 
+  
+- CNN_PyTorch_v2.ipynb
+  - KFOLD를 이용해서 5번의 학습을 진행하고 해당 예측값을 Ensemble 
+  - Train Accuracy : , Test Accuracy : 
 
+- CNN_PyTorch_v3.ipynb
+  - 학습에 유용한 파라미터들을 사용해서 코드를 개선 (https://github.com/Dacon-official/competitions/blob/master/AIFrenz_S2/1st_place/code/Model2.ipynb)
+  - Train Accuracy : , Test Accuracy : 
+  
 ## 추가할 사항
-
-- 코드 : PyTorch 
-  - v1 : Train만을 이용하여 predict (Training all dataset with batch)  
-  - v2 : kfold를 이용하여 predict 
-  - v3 : Use utilization package in https://dacon.io/competitions/official/235591/codeshare/1288?page=1&dtype=recent&ptype=pub
 
 - 내용 
   - http://aikorea.org/cs231n/ 
