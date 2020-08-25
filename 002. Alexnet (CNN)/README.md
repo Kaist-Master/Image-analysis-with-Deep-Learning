@@ -12,6 +12,10 @@ CNN이 가지는 문제점
 - Gradient Vanishing 
 - Gradient Exploding 
 
+CNN의 Parameters 
+- Parameters의 수와 layer들의 파라미터를 계산하는 방법  
+- CNN의 layer를 설정하는 방법 
+
 PyTorch를 이용한 실습 
 - CNN_PyTorch_v1.ipynb 
   - 모든 트레인 데이터를 학습에 이용해서 예측함 
@@ -47,6 +51,8 @@ PyTorch를 이용한 실습
 5. https://www.researchgate.net/figure/Model-architectures-for-the-MNIST-and-CIFAR-10-models_tbl10_324558570
 
 6. https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/
+
+7. https://taewan.kim/post/cnn/
 
 [Gradient Vanishing & Exploding] 
 
