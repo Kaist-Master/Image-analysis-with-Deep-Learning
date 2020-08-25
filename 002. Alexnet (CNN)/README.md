@@ -2,24 +2,39 @@
 
 이미지 처리의 가장 기본적인 모델인 CNN에 대해서 정리한 자료입니다. 
 
-- CNN이란 무엇인지? 
-  - Convolution - Pooling - Fully Connected Layer 
-  - CNN의 Backpropagation 
-- CNN이 가지는 문제점 
-  - Gradient Vanishing 
-  - Gradient Exploding 
-- PyTorch를 이용한 실습 
+## 목차 
 
-## 추가할 사항
+CNN이란 무엇인지? 
+- Convolution - Pooling - Fully Connected Layer 
+- CNN의 Backpropagation 
 
-- 코드 : PyTorch 
-- 내용 :  http://aikorea.org/cs231n/ 
+CNN이 가지는 문제점 
+- Gradient Vanishing 
+- Gradient Exploding 
+
+CNN의 Parameters 
+- Parameters의 수와 layer들의 파라미터를 계산하는 방법  
+- CNN의 layer를 설정하는 방법 
+
+PyTorch를 이용한 실습 
+- CNN_PyTorch_v1.ipynb 
+  - 모든 트레인 데이터를 학습에 이용해서 예측함 
+  - Train Accuracy : , Test Accuracy : 
+  
+- CNN_PyTorch_v2.ipynb
+  - KFOLD를 이용해서 5번의 학습을 진행하고 해당 예측값을 Ensemble 
+  - Train Accuracy : , Test Accuracy : 
+
+- CNN_PyTorch_v3.ipynb
+  - 학습에 유용한 파라미터들을 사용해서 코드를 개선 (https://github.com/Dacon-official/competitions/blob/master/AIFrenz_S2/1st_place/code/Model2.ipynb)
+  - Train Accuracy : , Test Accuracy : 
+ 
 
 ## 참고 자료
 
 [CNN]
 
-1. [https://medium.com/@seoilgun/cnn%EC%9D%98-stationarity%EC%99%80-locality-610166700979](https://medium.com/@seoilgun/cnn의-stationarity와-locality-610166700979)
+1. https://medium.com/@seoilgun/cnn%EC%9D%98-stationarity%EC%99%80-locality-610166700979
 
 2. https://www.slideshare.net/agdatalab/deep-learning-convolutional-neural-network
 
@@ -29,7 +44,11 @@
 
 5. https://www.researchgate.net/figure/Model-architectures-for-the-MNIST-and-CIFAR-10-models_tbl10_324558570
 
-6. [https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/](https://ratsgo.github.io/deep learning/2017/04/05/CNNbackprop/)
+6. https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/
+
+7. https://taewan.kim/post/cnn/
+
+8. https://zzsza.github.io/data/2018/05/14/cs231n-cnn/
 
 [Gradient Vanishing & Exploding] 
 
@@ -39,6 +58,6 @@
 
 [Jaccobian] 
 
-1. [http://t-robotics.blogspot.com/2013/12/jacobian.html#.X0OwjcgzaUk](http://t-robotics.blogspot.com/2013/12/jacobian.html)
+1. http://t-robotics.blogspot.com/2013/12/jacobian.html
 
 2. https://angeloyeo.github.io/2020/07/24/Jacobian.html
