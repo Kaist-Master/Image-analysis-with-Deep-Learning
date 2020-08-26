@@ -17,38 +17,35 @@ CNN의 Parameters
 - CNN의 layer를 설정하는 방법 
 
 PyTorch를 이용한 실습 
-- CNN_PyTorch_v1.ipynb 
+
+- 데이터 셋 :  https://www.kaggle.com/c/cifar-10 
+
+- [CNN_PyTorch_v1.ipynb](https://github.com/Kaist-Master/Image-analysis-with-Deep-Learning/blob/master/002.%20Alexnet%20(CNN)/code/CNN_PyTorch_v1.ipynb)
   - 모든 트레인 데이터를 학습에 이용해서 예측함 
-  - Train Accuracy : , Test Accuracy : 
+  - Train Accuracy : 0.95 , Test Accuracy : 0.78
   
-- CNN_PyTorch_v2.ipynb
+- [CNN_PyTorch_v2.ipynb](https://github.com/Kaist-Master/Image-analysis-with-Deep-Learning/blob/master/002.%20Alexnet%20(CNN)/code/CNN_PyTorch_v2.ipynb)
   - KFOLD를 이용해서 5번의 학습을 진행하고 해당 예측값을 Ensemble 
   - Train Accuracy : , Test Accuracy : 
 
 - CNN_PyTorch_v3.ipynb
   - 학습에 유용한 파라미터들을 사용해서 코드를 개선 (https://github.com/Dacon-official/competitions/blob/master/AIFrenz_S2/1st_place/code/Model2.ipynb)
   - Train Accuracy : , Test Accuracy : 
- 
+
 
 ## 참고 자료
 
 [CNN]
 
 1. https://medium.com/@seoilgun/cnn%EC%9D%98-stationarity%EC%99%80-locality-610166700979
-
 2. https://www.slideshare.net/agdatalab/deep-learning-convolutional-neural-network
-
 3. http://aikorea.org/cs231n/convolutional-networks/
-
 4. https://www.researchgate.net/publication/326816043_FAWCA_A_Flexible-greedy_Approach_to_find_Well-tuned_CNN_Architecture_for_Image_Recognition_Problem
-
 5. https://www.researchgate.net/figure/Model-architectures-for-the-MNIST-and-CIFAR-10-models_tbl10_324558570
-
 6. https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/
-
 7. https://taewan.kim/post/cnn/
-
 8. https://zzsza.github.io/data/2018/05/14/cs231n-cnn/
+9. https://hwiyong.tistory.com/45  
 
 [Gradient Vanishing & Exploding] 
 
