@@ -26,7 +26,7 @@ PyTorch를 이용한 실습
   
 - [CNN_PyTorch_v2.ipynb](https://github.com/Kaist-Master/Image-analysis-with-Deep-Learning/blob/master/002.%20Alexnet%20(CNN)/code/CNN_PyTorch_v2.ipynb)
   - KFOLD를 이용해서 5번의 학습을 진행하고 해당 예측값을 Ensemble 
-  - Train Accuracy : , Test Accuracy : 
+  - Train Accuracy : 0.87, Valid Accuracy : 0.76, Test Accuracy : 0.8
 
 - CNN_PyTorch_v3.ipynb
   - 학습에 유용한 파라미터들을 사용해서 코드를 개선 (https://github.com/Dacon-official/competitions/blob/master/AIFrenz_S2/1st_place/code/Model2.ipynb)
